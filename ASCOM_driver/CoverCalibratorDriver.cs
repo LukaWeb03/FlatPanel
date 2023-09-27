@@ -17,7 +17,7 @@
 //
 // Date			Who	Vers	Description
 // -----------	---	-----	-------------------------------------------------------
-// dd-mmm-yyyy	XXX	6.0.0	Initial edit, created from ASCOM driver template
+// 27.09.2023	Antonio Halužan	V1.0.3	Official release, created from ASCOM driver template
 // --------------------------------------------------------------------------------
 //
 
